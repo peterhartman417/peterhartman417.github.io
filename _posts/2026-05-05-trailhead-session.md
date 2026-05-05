@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Trailhead Session"
+title: "Start Here: Trailhead Session"
 date: 2026-05-05 12:00:00 -0500
 categories: Services Packages
 tags: Services Packages prices
 ---
 
-# Trailhead Session
+# Start Here: Trailhead Session
 
 **Founding client rate: $50 for a limited time**  
 **45 minutes**  
@@ -47,3 +47,4 @@ Sincerely, Hermes
 
 Changelog:
 - 2026-05-05: Created the Trailhead Session as the new public starter offer.
+- 2026-05-05: Updated title to make Trailhead the clear start-here offer.

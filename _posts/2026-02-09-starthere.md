@@ -14,8 +14,3 @@ This is the old starter offer page. It is hidden from the published site because
 Original copy:
 
 This is the the most basic package I offer. If you're not sure what your goal is, start here. You'll get a load of tips and techniques that you can take home and continue to work with your dog.
-
-Sincerely, Hermes
-
-Changelog:
-- 2026-05-05: Hid this old offer from the published site after replacing it with the Trailhead Session.

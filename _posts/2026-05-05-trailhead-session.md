@@ -42,9 +42,3 @@ You stay with your dog for the entire session.
 No drop-off. No daycare. No boarding. No dog transport.
 
 Start at the Trailhead and let us pick the path for your dog.
-
-Sincerely, Hermes
-
-Changelog:
-- 2026-05-05: Created the Trailhead Session as the new public starter offer.
-- 2026-05-05: Updated title to make Trailhead the clear start-here offer.

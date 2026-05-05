@@ -43,8 +43,3 @@ Training takes place at Nixa-area public locations selected by Bring The Dog Tra
 No drop-off. No daycare. No boarding. No dog transport.
 
 Dog + Owner Foundations is best after a Trailhead Session, but we can talk about whether it is the right starting point for you and your dog.
-
-Sincerely, Hermes
-
-Changelog:
-- 2026-05-05: Drafted the 4-session Dog + Owner Foundations package as an owner-present, Nixa-area public-location offer.

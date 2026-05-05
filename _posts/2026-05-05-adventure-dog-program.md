@@ -37,8 +37,3 @@ Training takes place at Nixa-area public locations selected by Bring The Dog Tra
 No drop-off. No daycare. No boarding. No dog transport.
 
 For most dogs, I recommend starting with a Trailhead Session first so we can choose the right path before committing to a longer program.
-
-Sincerely, Hermes
-
-Changelog:
-- 2026-05-05: Drafted the 8-session Adventure Dog Program as an owner-present, active/adventure-dog training package.
